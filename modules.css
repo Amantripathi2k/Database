@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta');
+
+
+body {
+    margin:0;
+    padding:0;
+    background: #222;
+    font-family: "Mukta";
+
+    background: url(background.jpg);
+    
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+}
+
+.main .header h1 {
+    color:white;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+#btn{
+    font-family: "Mukta";
+    color: white;
+    margin-top: 200px;
+    border: none;
+    background-color: rgb(85, 185, 85);
+    width: 150px;
+    padding: 10px;
+    border-radius: 30px;
+    border: 2px solid white;
+    border-radius: 25px;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+#btn:hover {
+    background-color: #ffc400ec;
+}
+
